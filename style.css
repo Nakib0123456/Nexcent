@@ -120,6 +120,7 @@ nav{
  scale: 1.1;
  color: #66bb69;
  border: none;
+ font-weight: bold;
 }
 .hero-section{
     display: flex;
